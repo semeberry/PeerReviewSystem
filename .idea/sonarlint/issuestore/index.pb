@@ -9,3 +9,5 @@ U
 %contracts/decentralized-charity_.clar,e/f/ef78cc7746e084491ead0251054bee3e1928cd3f
 T
 $tests/decentralized-charity_.test.ts,2/4/24b39a5e4f71b01f82bf904ee3c8bacb1b52450c
+J
+contracts/peer-review.clar,3/f/3fbff5bcca5f761a6bcd1d3c6652e581337d18f6

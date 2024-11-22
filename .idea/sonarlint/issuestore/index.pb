@@ -5,3 +5,5 @@ I
 contracts/bug-bounty.clar,9/0/9030c51168635286c89f1bf4df1f4ab4d8b70df9
 H
 tests/bug-bounty.test.ts,0/3/0328ca659fe8b474f900a307d934ba36fd5d17f8
+U
+%contracts/decentralized-charity_.clar,e/f/ef78cc7746e084491ead0251054bee3e1928cd3f

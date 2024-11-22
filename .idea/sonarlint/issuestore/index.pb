@@ -7,3 +7,5 @@ H
 tests/bug-bounty.test.ts,0/3/0328ca659fe8b474f900a307d934ba36fd5d17f8
 U
 %contracts/decentralized-charity_.clar,e/f/ef78cc7746e084491ead0251054bee3e1928cd3f
+T
+$tests/decentralized-charity_.test.ts,2/4/24b39a5e4f71b01f82bf904ee3c8bacb1b52450c
